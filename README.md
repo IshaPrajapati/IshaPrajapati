@@ -43,13 +43,10 @@
 ```json
 {
   "name": "Isha Prajapati",
-  "location": "Bulandshahr, Uttar Pradesh, India 📍",
   "education": {
     "college": "Lloyd Institute of Engineering & Technology, Greater Noida",
     "degree": "B.Tech in Data Science (2023 – 2027)",
-    "cgpa": "7.9 / 10 (till 6th Semester)"
-  },
-  "current_roles": [
+  "Experience": [
     "Data Science & AI Intern @ IBM PBEL (Virtual)",
     "Frontend Developer Intern @ IndusLabs AI"
   ],
@@ -57,15 +54,10 @@
     "Data Science & Machine Learning",
     "Artificial Intelligence",
     "Full Stack Web Development",
-    "Computer Vision",
     "Cloud Computing & DevOps"
   ],
-  "2025_goals": [
-    "Build 10+ impactful projects",
-    "Contribute to open-source AI tools",
-    "Crack a top-tier tech internship"
-  ],
-  "hobbies": ["Table Tennis 🏓", "Hackathons 🚀", "Competitive Coding 💻", "Exploring Tech 🔭"]
+
+  "hobbies": ["Hackathons 🚀", "Competitive Coding 💻", "Exploring Tech 🔭", Table Tennis 🏓" ]
 }
 ```
 
