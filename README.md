@@ -16,7 +16,7 @@
 <br/>
 
 <!-- Social Badges with animations -->
-<a href="https://linkedin.com/in/isha-prajapati" target="_blank">
+<a href="https://www.linkedin.com/in/isha-prajapati-370254299" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:ishaprajapati207@gmail.com" target="_blank">
@@ -27,11 +27,6 @@
 </a>
 
 <br/><br/>
-
-<!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=isha-Prajapati&style=flat-square&color=A855F7&label=Profile+Views" alt="Profile Views"/>
-
-<br/>
 
 <!-- Animated Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -57,7 +52,7 @@
     "Cloud Computing & DevOps"
   ],
 
-  "hobbies": ["Hackathons 🚀", "Competitive Coding 💻", "Exploring Tech 🔭", Table Tennis 🏓" ]
+  "hobbies": ["Competitive Coding 💻", "Exploring Tech 🔭", "Table Tennis 🏓", "Sketching Sometimes🖋️" ]
 }
 ```
 
